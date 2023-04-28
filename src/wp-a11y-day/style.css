@@ -461,6 +461,10 @@ figure.box-shadow {
 	text-align:center
 }
 
+.gradient-background,.main-navigation,.site-footer,.entry-meta {
+	background:radial-gradient(circle,var(--color-light-blue) 52%,var(--color-light-purple) 100%)
+}
+
 .main-navigation {
 	color:var(--color-dark-purple);
 	padding:9px 0
